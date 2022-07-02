@@ -12,7 +12,7 @@ export const dataUrl =
 //todo internationalize
 export const days = [
  'domenica',
-  'lunedì',
+  'Lunedì',
   'martedì',
   'mercoledì',
   'giovedì',
