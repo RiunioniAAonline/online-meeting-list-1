@@ -11,13 +11,13 @@ export const dataUrl =
 
 //todo internationalize
 export const days = [
-  'Sunday',
-  'Monday',
-  'Tuesday',
-  'Wednesday',
-  'Thursday',
-  'Friday',
-  'Saturday'
+ 'domenica',
+  'lunedì',
+  'martedì',
+  'mercoledì',
+  'giovedì',
+  'venerdì',
+  'sabato'
 ];
 
 //number of meetings displayed (scroll to load more)
